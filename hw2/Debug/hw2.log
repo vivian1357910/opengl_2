@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(56,21): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(61,66): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(61,48): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(61,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(66,45): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(66,33): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(72,84): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(72,60): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(72,36): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(75,69): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(75,23): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(83,81): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(83,62): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(83,43): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(84,31): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(84,28): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(142,29): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(149,48): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(150,39): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\vivia\Desktop\攝影學\hw2\hw2\hw2\main.cpp(150,36): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  hw2.vcxproj -> C:\Users\vivia\Desktop\攝影學\hw2\hw2\Debug\hw2.exe
